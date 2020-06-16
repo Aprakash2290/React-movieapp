@@ -1,2 +1,2 @@
 # React-movieapp
-first react application
+First React Application
